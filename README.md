@@ -170,12 +170,5 @@ Smoke test:
 python -c "from src.data_ingestion import get_stock_news; from src.sentiment_analyzer import load_sentiment_model; print('All modules OK')"
 ```
 
-## Contributing
-
-Contributions and issues are welcome. A typical workflow:
-
-1. Fork the repo and create a feature branch.
-2. Add tests for new behavior where appropriate.
-3. Open a pull request describing the change.
 
 
